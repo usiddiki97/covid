@@ -20,6 +20,5 @@
 ## Timeline
 + Day 1 - Figure out how to setup file structure upon approval
 + Day 2 - FIgure out everything else
-+
-+
++ ... magic ...
 + Last day - Have a completed project
