@@ -16,3 +16,10 @@
 
 ## Wireframe
 ![Wireframe](./wireframe.png)
+
+## Timeline
++ Day 1 - Figure out how to setup file structure upon approval
++ Day 2 - FIgure out everything else
++
++
++ Have a completed project
