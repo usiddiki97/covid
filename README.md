@@ -22,4 +22,4 @@
 + Day 2 - FIgure out everything else
 +
 +
-+ Have a completed project
++ Last day - Have a completed project
